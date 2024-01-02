@@ -109,6 +109,8 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
+Package forked from [mvdnbrk/gtin](https://github.com/mvdnbrk/gtin).
+
 - [Mark van den Broek][link-author]
 - [All Contributors][link-contributors]
 

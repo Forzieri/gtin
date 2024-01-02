@@ -1,5 +1,5 @@
 {
-    "name": "mvdnbrk/gtin",
+    "name": "forzieri/gtin",
     "description": "GTIN / EAN / UPC Validation for Laravel",
     "keywords": [
         "laravel",
@@ -10,7 +10,7 @@
         "gtin",
         "gs1"
     ],
-    "homepage": "https://github.com/mvdnbrk/gtin",
+    "homepage": "https://github.com/forzieri/gtin",
     "license": "MIT",
     "authors": [
         {
