@@ -109,9 +109,10 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-Package forked from [mvdnbrk/gtin](https://github.com/mvdnbrk/gtin).
+Package forked from [mvdnbrk/gtin](https://github.com/mvdnbrk/gtin). Package updated for Laravel 10 / PHP 8.x as per [roerlemans/gtin](https://github.com/roerlemans/gtin).
 
 - [Mark van den Broek][link-author]
+- [Ron Oerlemans][link-roerlemans]
 - [All Contributors][link-contributors]
 
 ## License
@@ -130,4 +131,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-downloads]: https://packagist.org/packages/mvdnbrk/gtin
 [link-code-style]: https://github.styleci.io/repos/91986121
 [link-author]: https://github.com/mvdnbrk
+[link-roerlemans]: https://github.com/roerlemans
 [link-contributors]: ../../contributors
